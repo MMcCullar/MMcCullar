@@ -138,7 +138,13 @@ body {
     color: rgb(255, 208, 0);
   }
 
-  @media only screen and (min-device-width: 480px){}
+  @media only screen 
+    and (min-width: 400px) 
+    and (max-width: 600px){
+    .fa-2xl {
+      font-size: 4vw;
+    }
+  }
 
 
  
