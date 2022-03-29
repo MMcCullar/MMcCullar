@@ -89,6 +89,7 @@ body {
     }
   
   .contact {
+    background-color: black;
     background-image:url("./img/computer.jpg");
     background-size: cover;
   }
@@ -102,6 +103,7 @@ body {
 
    /*pic of code on right*/
    .code {
+     background-color: black;
     background-image:url("./img/code.jpg");
     background-size:cover;
 }
