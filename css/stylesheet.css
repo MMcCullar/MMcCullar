@@ -116,11 +116,7 @@ body {
     color: rgb(255, 208, 0);
   }
 
- .media {
-   /* Create four equal columns that floats next to each other */
-  float: left;
-  width: 25%;
- }
+  @media only screen and (min-device-width: 480px){}
 
 
  
