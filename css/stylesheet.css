@@ -139,8 +139,13 @@ body {
     color: rgb(255, 208, 0);
   }
 
+.footer{
+  align-content: space-between;
+}
+
   .fontawesome {
     display:inline-block;
+    white-space: nowrap;
   }
 
 .copyright {
