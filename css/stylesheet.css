@@ -143,6 +143,10 @@ body {
     display:inline-block;
   }
 
+.copyright {
+  white-space: nowrap;
+}
+
   
   /*
   @media only screen 
