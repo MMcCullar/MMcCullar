@@ -139,7 +139,7 @@ body {
   }
 
   .fa-brands {
-    display:inline;
+    display:inline-block;
   }
 
   @media only screen 
