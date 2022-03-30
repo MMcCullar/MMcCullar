@@ -138,6 +138,10 @@ body {
     color: rgb(255, 208, 0);
   }
 
+  .fa-brands {
+    display:inline;
+  }
+
   @media only screen 
     and (min-width: 350px) 
     and (max-width: 600px){
